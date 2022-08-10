@@ -38,7 +38,6 @@ form{
 @media (max-width: 767px){
     .title{
         padding-top: 15px;
-        width: 200px;
         font-size: 20px;
         height: 50px;
     } 
